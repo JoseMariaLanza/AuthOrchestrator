@@ -1,0 +1,24 @@
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\bin\Debug\net6.0\AuthOrchestrator.deps.json
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\bin\Debug\net6.0\AuthOrchestrator.dll
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\bin\Debug\net6.0\AuthOrchestrator.pdb
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.csproj.AssemblyReference.cache
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.AssemblyInfoInputs.cache
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.AssemblyInfo.cs
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.csproj.CoreCompileInputs.cache
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.dll
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\refint\AuthOrchestrator.dll
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.pdb
+D:\projects\Personal\.NET Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\ref\AuthOrchestrator.dll
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.csproj.AssemblyReference.cache
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.AssemblyInfoInputs.cache
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.AssemblyInfo.cs
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.csproj.CoreCompileInputs.cache
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\bin\Debug\net6.0\AuthOrchestrator.deps.json
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\bin\Debug\net6.0\AuthOrchestrator.dll
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\bin\Debug\net6.0\AuthOrchestrator.pdb
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.dll
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\refint\AuthOrchestrator.dll
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\AuthOrchestrator.pdb
+D:\projects\Personal\.NET-Core\AuthOrchestrator\AuthOrchestrator\obj\Debug\net6.0\ref\AuthOrchestrator.dll
