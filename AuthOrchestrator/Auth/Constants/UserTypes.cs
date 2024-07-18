@@ -137,36 +137,36 @@
                     public const int Id = 23;
                     public const string HierarchyNode = "/9/3/2/";
                 }
+            }
 
-                public static class QAEngineer
-                {
-                    public const int Id = 24;
-                    public const string HierarchyNode = "/9/3/3/";
-                }
+            public static class QAEngineer
+            {
+                public const int Id = 24;
+                public const string HierarchyNode = "/9/4/";
+            }
 
-                public static class UXDesigner
-                {
-                    public const int Id = 25;
-                    public const string HierarchyNode = "/9/3/4/";
-                }
+            public static class UXDesigner
+            {
+                public const int Id = 25;
+                public const string HierarchyNode = "/9/5/";
+            }
 
-                public static class ProductOwner
-                {
-                    public const int Id = 26;
-                    public const string HierarchyNode = "/9/3/5/";
-                }
+            public static class ProductOwner
+            {
+                public const int Id = 26;
+                public const string HierarchyNode = "/9/6/";
             }
 
             public static class DevOpsEngineer
             {
                 public const int Id = 27;
-                public const string HierarchyNode = "/9/4/";
+                public const string HierarchyNode = "/9/7/";
             }
 
             public static class DataScientist
             {
                 public const int Id = 28;
-                public const string HierarchyNode = "/9/5/";
+                public const string HierarchyNode = "/9/8/";
             }
         }
     }
