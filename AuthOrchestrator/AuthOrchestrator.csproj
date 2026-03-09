@@ -1,29 +1,36 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net6.0</TargetFramework>
+		<TargetFrameworks>net6.0;net8.0</TargetFrameworks>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 
 		<!-- Habilita generación del paquete NuGet -->
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>AuthOrchestrator</PackageId>
-		<Version>1.0.0</Version>
-		<Authors>TuNombre</Authors>
-		<Company>TuEmpresa</Company>
-		<Description>Librería para autenticación con JWT y Redis</Description>
+		<Version>1.1.0</Version>
+		<Authors>JMFreeMan</Authors>
+		<Company>Fintech</Company>
+		<Description>Shared authentication orchestration library — JWT, Redis, and auth contracts for the Fintech ecosystem</Description>
 		<RepositoryUrl>https://github.com/tu-repo</RepositoryUrl>
-		<PackageOutputPath>$(SolutionDir)Nuget Packages</PackageOutputPath>
+		<PackageOutputPath>$(SolutionDir)NugetPackages</PackageOutputPath>
 	</PropertyGroup>
 
-	<ItemGroup>
+	<ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.21" />
-		<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
-		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
-		<PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
-		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
-		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
-		<PackageReference Include="StackExchange.Redis" Version="2.7.4" />
+	</ItemGroup>
+
+	<ItemGroup Condition="'$(TargetFramework)' == 'net8.0'">
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.12" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="8.0.2" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="8.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.1" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+		<PackageReference Include="StackExchange.Redis" Version="2.8.16" />
 	</ItemGroup>
 
 </Project>
